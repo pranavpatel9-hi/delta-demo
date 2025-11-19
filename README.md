@@ -5,4 +5,4 @@ this is demo for git &amp; github class.
 hello
 
 # student 
-hey
+hey hello
